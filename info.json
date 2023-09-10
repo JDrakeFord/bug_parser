@@ -1,34 +1,36 @@
-{
-    "1" : {
-        "Phylum": "Arthropods (Arthropoda)",
-        "Subphylum": "Chelicerates (Chelicerata)",
-        "Class": "Arachnids (Arachnida)",
-        "Subclass": "Mites and Ticks (Acari)",
-        "Superorder": "Acariformes",
-        "Order": "Trombidiformes",
-        "Suborder": "Prostigs (Prostigmata)",
-        "Infraorder": "Anystina",
-        "No Taxon": "Trombidiina - short-legged velvet mites & water mites",
-        "Superfamily": "velvet mites and chiggers (Trombidioidea)",
-        "Family": "true velvet mites (Trombidiidae)",
-        "Genus": "Trombidium",
-        "image_url": "https://bugguide.net/images/cache/O0E/QB0/O0EQB06QF0SKVK5KBKRKAKGK1KNQY0VQY0NQV0RKNKEQ9KGQ2K7K1KLK1KBQCKIKBKIKPK6QWKKKC08QC0HKNKQK9K.jpg"
-    },
-    "2": {
-        "Phylum": "Arthropods (Arthropoda)",
-        "Subphylum": "Hexapods (Hexapoda)",
-        "Class": "Insects (Insecta)",
-        "Subclass": "Mites and Ticks (Acari)",
-        "Superorder": "Acariformes",
-        "Order": "Ants, Bees, Wasps and Sawflies (Hymenoptera)",
-        "Suborder": "Prostigs (Prostigmata)",
-        "Infraorder": "Anystina",
-        "No Taxon": "\"Parasitica\" - Parasitoid Wasps",
-        "Superfamily": "Braconid and Ichneumonid Wasps (Ichneumonoidea)",
-        "Family": "Ichneumonid Wasps (Ichneumonidae)",
-        "Genus": "Schizura",
-        "image_url": "https://bugguide.net/images/cache/RH4/RQH/RH4RQH5RJZQZ9LYLNLRZPLFLNLZZTLZZTZ7RSH6RKHMRQHSZ1L7ZZH4RCZLZJZRZPLSRHH0RRH0Z6LQRCZQRLHQRZHGR.jpg",
-        "Subfamily": "Anomaloninae",
+[
+    {
+        "Phylum": "Arthropods (Arthropoda)", 
+        "Subphylum": "Hexapods (Hexapoda)", 
+        "Class": "Insects (Insecta)", 
+        "Subclass": "Mites and Ticks (Acari)", 
+        "Superorder": "Acariformes", 
+        "Order": "Ants, Bees, Wasps and Sawflies (Hymenoptera)", 
+        "Suborder": "Prostigs (Prostigmata)", 
+        "Infraorder": "Anystina", 
+        "No Taxon": "\"Parasitica\" - Parasitoid Wasps", 
+        "Superfamily": "Braconid and Ichneumonid Wasps (Ichneumonoidea)", 
+        "Family": "Ichneumonid Wasps (Ichneumonidae)", 
+        "Genus": "Schizura", 
+        "image_url": "https://bugguide.net/images/cache/RH4/RQH/RH4RQH5RJZQZ9LYLNLRZPLFLNLZZTLZZTZ7RSH6RKHMRQHSZ1L7ZZH4RCZLZJZRZPLSRHH0RRH0Z6LQRCZQRLHQRZHGR.jpg", 
+        "Subfamily": "Anomaloninae", 
+        "Tribe": "Gravenhorstiini"
+    }, 
+    {
+        "Phylum": "Arthropods (Arthropoda)", 
+        "Subphylum": "Hexapods (Hexapoda)", 
+        "Class": "Insects (Insecta)", 
+        "Subclass": "Mites and Ticks (Acari)", 
+        "Superorder": "Acariformes", 
+        "Order": "Ants, Bees, Wasps and Sawflies (Hymenoptera)", 
+        "Suborder": "Prostigs (Prostigmata)", 
+        "Infraorder": "Anystina", 
+        "No Taxon": "\"Parasitica\" - Parasitoid Wasps", 
+        "Superfamily": "Braconid and Ichneumonid Wasps (Ichneumonoidea)", 
+        "Family": "Ichneumonid Wasps (Ichneumonidae)", 
+        "Genus": "Schizura", 
+        "image_url": "https://bugguide.net/images/cache/RH4/RQH/RH4RQH5RJZQZ9LYLNLRZPLFLNLZZTLZZTZ7RSH6RKHMRQHSZ1L7ZZH4RCZLZJZRZPLSRHH0RRH0Z6LQRCZQRLHQRZHGR.jpg", 
+        "Subfamily": "Anomaloninae", 
         "Tribe": "Gravenhorstiini"
     }
-}
+]

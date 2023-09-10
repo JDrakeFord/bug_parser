@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 
 bug_info_dict = OrderedDict()
 
+json_list = []
+
 for i in range(1, 4):
     with open(str(i) + ".html") as fp:
         soup = BeautifulSoup(fp, 'html.parser')
@@ -19,8 +21,8 @@ for i in range(1, 4):
 
         image = soup.find('img', {'class': 'bgimage-image'})['src']
         bug_info_dict['image_url'] = image
-
-        with open("info.json", "a") as outfile:
-            outfile.write(json.dumps(bug_info_dict, indent=4) + '\n')
+        json_list.append(bug_info_dict)
     except:
         continue
+with open('info.json', 'w') as outfile:
+    outfile.write(json.dumps(json_list, indent=4))
